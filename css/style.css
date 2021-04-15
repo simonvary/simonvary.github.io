@@ -533,19 +533,19 @@ ul.education-ul li .description p.institution {
 @media screen and (max-width: 480px) {
 
   body {
-    font-size: 14px;
-  }
-
-  h1 {
-    font-size: 26px;
-  }
-
-  h2 {
     font-size: 16px;
   }
 
+  h1 {
+    font-size: 28px;
+  }
+
+  h2 {
+    font-size: 18px;
+  }
+
   h3, h4, h5, h6 {
-    font-size: 15px;
+    font-size: 16px;
   }
 
   pre, code {
