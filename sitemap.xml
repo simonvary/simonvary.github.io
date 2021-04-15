@@ -3,94 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://simonvary.github.io/categories/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <loc>http://simonavary.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://simonvary.github.io/categories/example/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <loc>http://simonavary.github.io/</loc>
   </url>
   
   <url>
-    <loc>https://simonvary.github.io/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <loc>http://simonavary.github.io/research/</loc>
   </url>
   
   <url>
-    <loc>https://simonvary.github.io/tags/markdown/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <loc>http://simonavary.github.io/tags/</loc>
   </url>
   
   <url>
-    <loc>https://simonvary.github.io/post/2018/08/30/markdown-guide-modified/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <loc>http://simonavary.github.io/talks/</loc>
   </url>
   
   <url>
-    <loc>https://simonvary.github.io/post/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://simonvary.github.io/tags/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://simonvary.github.io/categories/bullhorn/</loc>
-    <lastmod>2012-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://simonvary.github.io/post/2012/04/23/hacker-with-horn/</loc>
-    <lastmod>2012-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://simonvary.github.io/categories/blog/</loc>
-    <lastmod>2012-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://simonvary.github.io/post/2012/03/12/command-line-awesomeness/</loc>
-    <lastmod>2012-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://simonvary.github.io/tags/html/</loc>
-    <lastmod>2012-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://simonvary.github.io/categories/code/</loc>
-    <lastmod>2012-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://simonvary.github.io/tags/juicy/</loc>
-    <lastmod>2012-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://simonvary.github.io/post/2012/01/23/juicy-code/</loc>
-    <lastmod>2012-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://simonvary.github.io/page/</loc>
-  </url>
-  
-  <url>
-    <loc>https://simonvary.github.io/research/</loc>
-  </url>
-  
-  <url>
-    <loc>https://simonvary.github.io/talks/</loc>
-  </url>
-  
-  <url>
-    <loc>https://simonvary.github.io/teaching/</loc>
+    <loc>http://simonavary.github.io/teaching/</loc>
   </url>
   
 </urlset>

@@ -1,1 +1,0 @@
-# simonvary.github.io
