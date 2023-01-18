@@ -45,10 +45,10 @@ Davis-Kahan $\sin(\theta)$ theorem Von Neumann&amp;rsquo;s trace inequality (and
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://simonavary.github.io/research/</guid>
-      <description>H. Daglayan, S. Vary, F. Cantalloube, P.-A. Absil, O. Absil. Likelihood ratio map for direct exoplanet detection, IEEE International Image Processing Applications and Systems, 2022. [arxiv]
+      <description>S. Vary, H. Daglayan, L. Jacques, P.-A. Absil. Low-rank plus sparse trajectory decomposition for direct exoplanet imaging, preprint, 2023. [arxiv]
+H. Daglayan, S. Vary, F. Cantalloube, P.-A. Absil, O. Absil. Likelihood ratio map for direct exoplanet detection, IEEE International Image Processing Applications and Systems, 2022. [arxiv]
 B. Gao, S. Vary, P. Ablin, P.-A. Absil. Optimization flows landing on the Stiefel manifold, Proc. MTNS (IFAC-PapersOnLine) 55(30), 25-30, 2022. [doi, arxiv]
-S. Vary, On low-rank plus sparse matrix sensing, DPhil dissertation, 2021. [pdf]
-J. Tanner, S. Vary, Compressed sensing of low-rank plus sparse matrices, preprint, 2020.</description>
+S. Vary, On low-rank plus sparse matrix sensing, DPhil dissertation, 2021.</description>
     </item>
     
     <item>
@@ -57,12 +57,12 @@ J. Tanner, S. Vary, Compressed sensing of low-rank plus sparse matrices, preprin
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://simonavary.github.io/talks/</guid>
-      <description>2022 25th International Symposium on Mathematical Theory of Networks and Systems, [slides] (Sept. 2022, Bayreuth, Germany)
+      <description>2023 University of Bordeaux &amp;ndash; Invited seminar, (Mar. 2023, Bordeaux, France)
+2022 25th International Symposium on Mathematical Theory of Networks and Systems, [slides] (Sept. 2022, Bayreuth, Germany)
 XXI Householder Symposium on Numerical Linear Algebra, [slides] (June 2022, Selva di Fasano, Italy)
 2021 UCLouvain &amp;ndash; Mathematical Engineering seminar, [slides] (Oct. 2021, Louvain-la-Neuve, Belgium)
 KU Leuven &amp;ndash; SeLMA seminar, (June 2021, Leuven, Belgium)
-SIAM Conference on Applied Linear Algebra, (May 2021, New Orleans, LA, USA)
-Leonardo Mw. Ltd &amp;ndash; Workshop on Matrix Completion and Sparse Matrix Sensing (Feb.</description>
+SIAM Conference on Applied Linear Algebra, (May 2021, New Orleans, LA, USA)</description>
     </item>
     
     <item>
