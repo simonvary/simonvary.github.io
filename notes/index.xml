@@ -4,40 +4,30 @@
     <title>Notes on Šimon Váry</title>
     <link>http://simonavary.github.io/notes/</link>
     <description>Recent content in Notes on Šimon Váry</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-uk</language>
-    <lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://simonavary.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://simonavary.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Planted clique problem</title>
       <link>http://simonavary.github.io/notes/planted-clique-problem/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://simonavary.github.io/notes/planted-clique-problem/</guid>
-      <description>The following is very difficult to solve
-$$ \max_{x} \lVert A x \rVert_2, \quad \mathrm{s.t.} \quad \lVert x\rVert_0 \leq s, \lVert x\rVert_2 = 1, $$
-when $s = \mathcal{O}(\log(n))$ and reasonably difficult when $s = \mathcal{O}(\sqrt{n})$
-Definition </description>
+      <description>The following is very difficult to solve&#xA;$$ \max_{x} \lVert A x \rVert_2, \quad \mathrm{s.t.} \quad \lVert x\rVert_0 \leq s, \lVert x\rVert_2 = 1, $$&#xA;when $s = \mathcal{O}(\log(n))$ and reasonably difficult when $s = \mathcal{O}(\sqrt{n})$&#xA;Definition </description>
     </item>
-    
     <item>
       <title>Some linear algebra theorems</title>
       <link>http://simonavary.github.io/notes/linear-algebra-theorems/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://simonavary.github.io/notes/linear-algebra-theorems/</guid>
-      <description>Some useful linear algebra theorems.
-Davis-Kahan $\sin(\theta)$ theorem Von Neumann&amp;rsquo;s trace inequality (and its extensions) Computing principal angles What can one get out of the incoherence? </description>
+      <description>Some useful linear algebra theorems.&#xA;Davis-Kahan $\sin(\theta)$ theorem Von Neumann&amp;rsquo;s trace inequality (and its extensions) Computing principal angles What can one get out of the incoherence? </description>
     </item>
-    
     <item>
       <title>Spectral Datasets</title>
       <link>http://simonavary.github.io/notes/a-quick-note/</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://simonavary.github.io/notes/a-quick-note/</guid>
-      <description>There are several
-| Dataset | Spectral range | Spatial resolution | | &amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; | &amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; | | Header | Title | | Paragraph | Text |</description>
+      <description>There are several&#xA;| Dataset | Spectral range | Spatial resolution | | &amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; | &amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; | | Header | Title | | Paragraph | Text |</description>
     </item>
-    
   </channel>
 </rss>

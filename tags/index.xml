@@ -4,7 +4,8 @@
     <title>Tags on Šimon Váry</title>
     <link>http://simonavary.github.io/tags/</link>
     <description>Recent content in Tags on Šimon Váry</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language><atom:link href="http://simonavary.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-uk</language>
+    <atom:link href="http://simonavary.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -4,77 +4,51 @@
     <title>Home on Šimon Váry</title>
     <link>http://simonavary.github.io/</link>
     <description>Recent content in Home on Šimon Váry</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-uk</language>
-    <lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://simonavary.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://simonavary.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Planted clique problem</title>
       <link>http://simonavary.github.io/notes/planted-clique-problem/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://simonavary.github.io/notes/planted-clique-problem/</guid>
-      <description>The following is very difficult to solve
-$$ \max_{x} \lVert A x \rVert_2, \quad \mathrm{s.t.} \quad \lVert x\rVert_0 \leq s, \lVert x\rVert_2 = 1, $$
-when $s = \mathcal{O}(\log(n))$ and reasonably difficult when $s = \mathcal{O}(\sqrt{n})$
-Definition </description>
+      <description>The following is very difficult to solve&#xA;$$ \max_{x} \lVert A x \rVert_2, \quad \mathrm{s.t.} \quad \lVert x\rVert_0 \leq s, \lVert x\rVert_2 = 1, $$&#xA;when $s = \mathcal{O}(\log(n))$ and reasonably difficult when $s = \mathcal{O}(\sqrt{n})$&#xA;Definition </description>
     </item>
-    
     <item>
       <title>Some linear algebra theorems</title>
       <link>http://simonavary.github.io/notes/linear-algebra-theorems/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://simonavary.github.io/notes/linear-algebra-theorems/</guid>
-      <description>Some useful linear algebra theorems.
-Davis-Kahan $\sin(\theta)$ theorem Von Neumann&amp;rsquo;s trace inequality (and its extensions) Computing principal angles What can one get out of the incoherence? </description>
+      <description>Some useful linear algebra theorems.&#xA;Davis-Kahan $\sin(\theta)$ theorem Von Neumann&amp;rsquo;s trace inequality (and its extensions) Computing principal angles What can one get out of the incoherence? </description>
     </item>
-    
     <item>
       <title>Spectral Datasets</title>
       <link>http://simonavary.github.io/notes/a-quick-note/</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://simonavary.github.io/notes/a-quick-note/</guid>
-      <description>There are several
-| Dataset | Spectral range | Spatial resolution | | &amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; | &amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; | | Header | Title | | Paragraph | Text |</description>
+      <description>There are several&#xA;| Dataset | Spectral range | Spatial resolution | | &amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; | &amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; | | Header | Title | | Paragraph | Text |</description>
     </item>
-    
     <item>
       <title>Research</title>
       <link>http://simonavary.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://simonavary.github.io/research/</guid>
-      <description>Thesis: S. Vary, On low-rank plus sparse matrix sensing, DPhil dissertation, 2021. [pdf]
-Journal papers: W. Si, P.-A. Absil, W. Huang, R. Jiang, S. Vary, A Riemannian Proximal Newton Method, preprint, 2023. [arxiv]
-P. Ablin, S. Vary, B. Gao, P.-A. Absil, Infeasible Deterministic, Stochastic, and Variance-Reduction Algorithms for Optimization under Orthogonality Constraints, preprint, 2023. [arxiv]
-J. Tanner, S. Vary, Compressed sensing of low-rank plus sparse matrices, Applied and Computational Harmonic Analysis, 64, 254-293, 2023.</description>
+      <description>Thesis: S. Vary, On low-rank plus sparse matrix sensing, DPhil dissertation, 2021. [pdf]&#xA;Journal papers: S. Vary, P. Ablin, B. Gao, P.-A. Absil, Optimization without retraction on the random generalized Stiefel, to appear at ICML, 2024. [arxiv]&#xA;W. Si, P.-A. Absil, W. Huang, R. Jiang, S. Vary, A Riemannian Proximal Newton Method, preprint, 2023. [arxiv]&#xA;W. Si, P.-A. Absil, W. Huang, R. Jiang, S. Vary, A Riemannian Proximal Newton Method, preprint, 2023.</description>
     </item>
-    
     <item>
       <title>Talks</title>
       <link>http://simonavary.github.io/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://simonavary.github.io/talks/</guid>
-      <description>2023 University of Bordeaux &amp;ndash; Invited seminar, (Mar. 2023, Bordeaux, France)
-2022 25th International Symposium on Mathematical Theory of Networks and Systems, [slides] (Sept. 2022, Bayreuth, Germany)
-XXI Householder Symposium on Numerical Linear Algebra, [slides] (June 2022, Selva di Fasano, Italy)
-2021 UCLouvain &amp;ndash; Mathematical Engineering seminar, [slides] (Oct. 2021, Louvain-la-Neuve, Belgium)
-KU Leuven &amp;ndash; SeLMA seminar, (June 2021, Leuven, Belgium)
-SIAM Conference on Applied Linear Algebra, (May 2021, New Orleans, LA, USA)</description>
+      <description>2023 University of Bordeaux &amp;ndash; Invited seminar, (Mar. 2023, Bordeaux, France)&#xA;2022 25th International Symposium on Mathematical Theory of Networks and Systems, [slides] (Sept. 2022, Bayreuth, Germany)&#xA;XXI Householder Symposium on Numerical Linear Algebra, [slides] (June 2022, Selva di Fasano, Italy)&#xA;2021 UCLouvain &amp;ndash; Mathematical Engineering seminar, [slides] (Oct. 2021, Louvain-la-Neuve, Belgium)&#xA;KU Leuven &amp;ndash; SeLMA seminar, (June 2021, Leuven, Belgium)&#xA;SIAM Conference on Applied Linear Algebra, (May 2021, New Orleans, LA, USA)</description>
     </item>
-    
     <item>
       <title>Teaching</title>
       <link>http://simonavary.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://simonavary.github.io/teaching/</guid>
-      <description> LINMA2171 Numerical Analysis: Approximation, Interpolation, Integration Lecturer (Autumn 2023), Teaching Assistant (Autumn 2022) C6.5 Theories of Deep Learning [PS1, PS2, Git] Tutor (Hilary 2019, Michaelmas 2020, Hilary 2020, Trinity 2020)
-Lecturer: Prof. Jared Tanner C6.1 Numerical Linear Algebra Teaching Assistant (Hilary 2018)
-Lecturer: Prof. Andrew Wathen C6.2 Continuous Optimisation Teaching Assistant (Hilary 2018) Lecturer: Prof. Coralia Cartis </description>
+      <description> LINMA2171 Numerical Analysis: Approximation, Interpolation, Integration Lecturer (Autumn 2023), Teaching Assistant (Autumn 2022) C6.5 Theories of Deep Learning [PS1, PS2, Git] Tutor (Hilary 2019, Michaelmas 2020, Hilary 2020, Trinity 2020)&#xA;Lecturer: Prof. Jared Tanner C6.1 Numerical Linear Algebra Teaching Assistant (Hilary 2018)&#xA;Lecturer: Prof. Andrew Wathen C6.2 Continuous Optimisation Teaching Assistant (Hilary 2018) Lecturer: Prof. Coralia Cartis </description>
     </item>
-    
   </channel>
 </rss>
