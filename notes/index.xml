@@ -13,21 +13,21 @@
       <link>http://simonavary.github.io/notes/planted-clique-problem/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://simonavary.github.io/notes/planted-clique-problem/</guid>
-      <description>The following is very difficult to solve&#xA;$$ \max_{x} \lVert A x \rVert_2, \quad \mathrm{s.t.} \quad \lVert x\rVert_0 \leq s, \lVert x\rVert_2 = 1, $$&#xA;when $s = \mathcal{O}(\log(n))$ and reasonably difficult when $s = \mathcal{O}(\sqrt{n})$&#xA;Definition </description>
+      <description>&lt;p&gt;The following is very difficult to solve&lt;/p&gt;&#xA;&lt;p&gt;$$ \max_{x} \lVert A x \rVert_2, \quad \mathrm{s.t.} \quad \lVert x\rVert_0 \leq s, \lVert x\rVert_2 = 1, $$&lt;/p&gt;&#xA;&lt;p&gt;when $s = \mathcal{O}(\log(n))$ and reasonably difficult when $s = \mathcal{O}(\sqrt{n})$&lt;/p&gt;&#xA;&lt;h3 id=&#34;definition&#34;&gt;Definition&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Some linear algebra theorems</title>
       <link>http://simonavary.github.io/notes/linear-algebra-theorems/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://simonavary.github.io/notes/linear-algebra-theorems/</guid>
-      <description>Some useful linear algebra theorems.&#xA;Davis-Kahan $\sin(\theta)$ theorem Von Neumann&amp;rsquo;s trace inequality (and its extensions) Computing principal angles What can one get out of the incoherence? </description>
+      <description>&lt;p&gt;Some useful linear algebra theorems.&lt;/p&gt;&#xA;&lt;h3 id=&#34;davis-kahan-sintheta-theorem&#34;&gt;Davis-Kahan $\sin(\theta)$ theorem&lt;/h3&gt;&#xA;&lt;h3 id=&#34;von-neumanns-trace-inequality-and-its-extensions&#34;&gt;Von Neumann&amp;rsquo;s trace inequality (and its extensions)&lt;/h3&gt;&#xA;&lt;h3 id=&#34;computing-principal-angles&#34;&gt;Computing principal angles&lt;/h3&gt;&#xA;&lt;h3 id=&#34;what-can-one-get-out-of-the-incoherence&#34;&gt;What can one get out of the incoherence?&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Spectral Datasets</title>
       <link>http://simonavary.github.io/notes/a-quick-note/</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://simonavary.github.io/notes/a-quick-note/</guid>
-      <description>There are several&#xA;| Dataset | Spectral range | Spatial resolution | | &amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; | &amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; | | Header | Title | | Paragraph | Text |</description>
+      <description>&lt;p&gt;There are several&lt;/p&gt;&#xA;&lt;p&gt;| Dataset      | Spectral range | Spatial resolution |&#xA;| &amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; | &amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; |&#xA;| Header      | Title       |&#xA;| Paragraph   | Text        |&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

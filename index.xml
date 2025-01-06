@@ -13,42 +13,42 @@
       <link>http://simonavary.github.io/notes/planted-clique-problem/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://simonavary.github.io/notes/planted-clique-problem/</guid>
-      <description>The following is very difficult to solve&#xA;$$ \max_{x} \lVert A x \rVert_2, \quad \mathrm{s.t.} \quad \lVert x\rVert_0 \leq s, \lVert x\rVert_2 = 1, $$&#xA;when $s = \mathcal{O}(\log(n))$ and reasonably difficult when $s = \mathcal{O}(\sqrt{n})$&#xA;Definition </description>
+      <description>&lt;p&gt;The following is very difficult to solve&lt;/p&gt;&#xA;&lt;p&gt;$$ \max_{x} \lVert A x \rVert_2, \quad \mathrm{s.t.} \quad \lVert x\rVert_0 \leq s, \lVert x\rVert_2 = 1, $$&lt;/p&gt;&#xA;&lt;p&gt;when $s = \mathcal{O}(\log(n))$ and reasonably difficult when $s = \mathcal{O}(\sqrt{n})$&lt;/p&gt;&#xA;&lt;h3 id=&#34;definition&#34;&gt;Definition&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Some linear algebra theorems</title>
       <link>http://simonavary.github.io/notes/linear-algebra-theorems/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://simonavary.github.io/notes/linear-algebra-theorems/</guid>
-      <description>Some useful linear algebra theorems.&#xA;Davis-Kahan $\sin(\theta)$ theorem Von Neumann&amp;rsquo;s trace inequality (and its extensions) Computing principal angles What can one get out of the incoherence? </description>
+      <description>&lt;p&gt;Some useful linear algebra theorems.&lt;/p&gt;&#xA;&lt;h3 id=&#34;davis-kahan-sintheta-theorem&#34;&gt;Davis-Kahan $\sin(\theta)$ theorem&lt;/h3&gt;&#xA;&lt;h3 id=&#34;von-neumanns-trace-inequality-and-its-extensions&#34;&gt;Von Neumann&amp;rsquo;s trace inequality (and its extensions)&lt;/h3&gt;&#xA;&lt;h3 id=&#34;computing-principal-angles&#34;&gt;Computing principal angles&lt;/h3&gt;&#xA;&lt;h3 id=&#34;what-can-one-get-out-of-the-incoherence&#34;&gt;What can one get out of the incoherence?&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Spectral Datasets</title>
       <link>http://simonavary.github.io/notes/a-quick-note/</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://simonavary.github.io/notes/a-quick-note/</guid>
-      <description>There are several&#xA;| Dataset | Spectral range | Spatial resolution | | &amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; | &amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; | | Header | Title | | Paragraph | Text |</description>
+      <description>&lt;p&gt;There are several&lt;/p&gt;&#xA;&lt;p&gt;| Dataset      | Spectral range | Spatial resolution |&#xA;| &amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; | &amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; |&#xA;| Header      | Title       |&#xA;| Paragraph   | Text        |&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research</title>
       <link>http://simonavary.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://simonavary.github.io/research/</guid>
-      <description>Thesis: S. Vary, On low-rank plus sparse matrix sensing, DPhil dissertation, 2021. [pdf]&#xA;Preprints F. Alimisis, S. Vary, B. Vandereycken, A Nesterov-style Accelerated Gradient Descent Algorithm for the Symmetric Eigenvalue Problem, preprint, 2024. [arxiv]&#xA;P. Ablin, S. Vary, B. Gao, P.-A. Absil, Infeasible Deterministic, Stochastic, and Variance-Reduction Algorithms for Optimization under Orthogonality Constraints, preprint, 2023. [arxiv], [code]&#xA;Journal papers and long conference proceedings: S. Vary, P. Ablin, B. Gao, P.-A. Absil, Optimization without retraction on the random generalized Stiefel, to appear at ICML, 2024.</description>
+      <description>&lt;h2 id=&#34;thesis&#34;&gt;Thesis&lt;/h2&gt;&#xA;&lt;p&gt;S. Vary, &lt;strong&gt;On low-rank plus sparse matrix sensing,&lt;/strong&gt; DPhil dissertation, 2021. [&lt;a href=&#34;http://simonavary.github.io/thesis.pdf&#34;&gt;pdf&lt;/a&gt;]&lt;/p&gt;&#xA;&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;&#xA;&lt;p&gt;S. Vary, D. Martínez-Rubio, P. Rebeschini, &lt;strong&gt;Black-Box Uniform Stability for Non-Euclidean Empirical Risk Minimization,&lt;/strong&gt; preprint, 2024. [&lt;a href=&#34;https://arxiv.org/abs/2412.15956&#34;&gt;arxiv&lt;/a&gt;]&lt;/p&gt;&#xA;&lt;p&gt;F. Alimisis, S. Vary, B. Vandereycken, &lt;strong&gt;A Nesterov-style Accelerated Gradient Descent Algorithm for the Symmetric Eigenvalue Problem,&lt;/strong&gt; preprint, 2024. [&lt;a href=&#34;https://arxiv.org/abs/2406.18433&#34;&gt;arxiv&lt;/a&gt;]&lt;/p&gt;&#xA;&lt;h2 id=&#34;journal-papers-and-long-conference-proceedings&#34;&gt;Journal papers and long conference proceedings&lt;/h2&gt;&#xA;&lt;p&gt;P. Ablin, S. Vary, B. Gao, P.-A. Absil, &lt;strong&gt;Infeasible Deterministic, Stochastic, and Variance-Reduction Algorithms for Optimization under Orthogonality Constraints,&lt;/strong&gt;  to appear in JMLR, 2024. [&lt;a href=&#34;https://arxiv.org/abs/2303.16510&#34;&gt;arxiv&lt;/a&gt;], [&lt;a href=&#34;https://github.com/simonvary/landing-stiefel&#34;&gt;code&lt;/a&gt;]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Talks</title>
       <link>http://simonavary.github.io/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://simonavary.github.io/talks/</guid>
-      <description>2024 SIAM Conference on Applied Linear Algebra, [slides] (May 2024, Paris, France)&#xA;2023 UCLouvain &amp;ndash; Mathematical Engineering seminar, (Dec. 2023, Louvain-la-Neuve, Belgium)&#xA;University of Bordeaux &amp;ndash; Invited seminar, (Mar. 2023, Bordeaux, France)&#xA;2022 25th International Symposium on Mathematical Theory of Networks and Systems, [slides] (Sept. 2022, Bayreuth, Germany)&#xA;XXI Householder Symposium on Numerical Linear Algebra, [slides] (June 2022, Selva di Fasano, Italy)&#xA;2021 UCLouvain &amp;ndash; Mathematical Engineering seminar, [slides] (Oct. 2021, Louvain-la-Neuve, Belgium)</description>
+      <description>&lt;h3 id=&#34;2024&#34;&gt;2024&lt;/h3&gt;&#xA;&lt;p&gt;SIAM Conference on Applied Linear Algebra, [&lt;a href=&#34;http://simonavary.github.io/slides/generalized_landing_sala24.pdf&#34;&gt;slides&lt;/a&gt;] (May 2024, &lt;strong&gt;Paris&lt;/strong&gt;, France)&lt;/p&gt;&#xA;&lt;h3 id=&#34;2023&#34;&gt;2023&lt;/h3&gt;&#xA;&lt;p&gt;UCLouvain &amp;ndash; Mathematical Engineering seminar, (Dec. 2023, &lt;strong&gt;Louvain-la-Neuve&lt;/strong&gt;, Belgium)&lt;/p&gt;&#xA;&lt;p&gt;University of Bordeaux &amp;ndash; Invited seminar, (Mar. 2023, &lt;strong&gt;Bordeaux&lt;/strong&gt;, France)&lt;/p&gt;&#xA;&lt;h3 id=&#34;2022&#34;&gt;2022&lt;/h3&gt;&#xA;&lt;p&gt;25th International Symposium on Mathematical Theory of Networks and Systems, [&lt;a href=&#34;http://simonavary.github.io/slides/landing_mtns22.pdf&#34;&gt;slides&lt;/a&gt;] (Sept. 2022, &lt;strong&gt;Bayreuth&lt;/strong&gt;, Germany)&lt;/p&gt;&#xA;&lt;p&gt;XXI Householder Symposium on Numerical Linear Algebra, [&lt;a href=&#34;http://simonavary.github.io/slides/householder22.pdf&#34;&gt;slides&lt;/a&gt;] (June 2022, &lt;strong&gt;Selva di Fasano&lt;/strong&gt;, Italy)&lt;/p&gt;&#xA;&lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;&#xA;&lt;p&gt;UCLouvain &amp;ndash; Mathematical Engineering seminar, [&lt;a href=&#34;http://simonavary.github.io/slides/icteam21.pdf&#34;&gt;slides&lt;/a&gt;] (Oct. 2021, &lt;strong&gt;Louvain-la-Neuve&lt;/strong&gt;, Belgium)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Teaching</title>
       <link>http://simonavary.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://simonavary.github.io/teaching/</guid>
-      <description> LINMA2171 Numerical Analysis: Approximation, Interpolation, Integration Lecturer (Autumn 2023), Teaching Assistant (Autumn 2022) C6.5 Theories of Deep Learning [PS1, PS2, Git] Tutor (Hilary 2019, Michaelmas 2020, Hilary 2020, Trinity 2020)&#xA;Lecturer: Prof. Jared Tanner C6.1 Numerical Linear Algebra Teaching Assistant (Hilary 2018)&#xA;Lecturer: Prof. Andrew Wathen C6.2 Continuous Optimisation Teaching Assistant (Hilary 2018) Lecturer: Prof. Coralia Cartis </description>
+      <description>&lt;dl&gt;&#xA;&lt;dt&gt;&lt;strong&gt;&lt;a href=&#34;https://uclouvain.be/en-cours-2023-linma2171&#34;&gt;LINMA2171&lt;/a&gt; Numerical Analysis: Approximation, Interpolation, Integration&lt;/strong&gt;&lt;/dt&gt;&#xA;&lt;dd&gt;Lecturer (Autumn 2023), Teaching Assistant (Autumn 2022)&lt;/dd&gt;&#xA;&lt;dt&gt;&lt;strong&gt;&lt;a href=&#34;https://courses-archive.maths.ox.ac.uk/node/37111&#34;&gt;C6.5&lt;/a&gt; Theories of Deep Learning&lt;/strong&gt; [&lt;a href=&#34;http://simonavary.github.io/teaching/theories-dl/ProblemSheet1.html&#34;&gt;PS1&lt;/a&gt;, &lt;a href=&#34;http://simonavary.github.io/teaching/theories-dl/ProblemSheet2.html&#34;&gt;PS2&lt;/a&gt;, &lt;a href=&#34;https://github.com/svary/theories-dl&#34;&gt;Git&lt;/a&gt;]&lt;/dt&gt;&#xA;&lt;dd&gt;Tutor (Hilary 2019, Michaelmas 2020, Hilary 2020, Trinity 2020)&lt;br&gt;&#xA;Lecturer: Prof. Jared Tanner&lt;/dd&gt;&#xA;&lt;dt&gt;&lt;strong&gt;&lt;a href=&#34;https://courses-archive.maths.ox.ac.uk/node/4865&#34;&gt;C6.1&lt;/a&gt; Numerical Linear Algebra&lt;/strong&gt;&lt;/dt&gt;&#xA;&lt;dd&gt;Teaching Assistant (Hilary 2018)&lt;br&gt;&#xA;Lecturer: Prof. Andrew Wathen&lt;/dd&gt;&#xA;&lt;dt&gt;&lt;strong&gt;&lt;a href=&#34;https://courses-archive.maths.ox.ac.uk/node/4888&#34;&gt;C6.2&lt;/a&gt; Continuous Optimisation&lt;/strong&gt;&lt;/dt&gt;&#xA;&lt;dd&gt;Teaching Assistant (Hilary 2018)&lt;/dd&gt;&#xA;&lt;dd&gt;Lecturer: Prof. Coralia Cartis&lt;/dd&gt;&#xA;&lt;/dl&gt;</description>
     </item>
   </channel>
 </rss>
