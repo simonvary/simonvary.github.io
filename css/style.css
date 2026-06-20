@@ -266,6 +266,47 @@ body {
   color: #666;
 }
 
+/* Structured research, teaching, and talks pages */
+
+.research .main > h2,
+.teaching .main > h2,
+.talks .main > h2 {
+  margin-top: 2.2em;
+  margin-bottom: 1em;
+  padding-bottom: .3em;
+  border-bottom: 1px solid #aaa;
+  font-size: 1.5em;
+}
+
+.research .publication,
+.structured-entry {
+  margin: 1.35em 0 1.7em;
+  line-height: 1.5;
+}
+
+.research .publication-title,
+.entry-title {
+  font-size: 1.05em;
+  font-weight: bold;
+}
+
+.research .publication-authors,
+.entry-subtitle {
+  margin-top: .15em;
+}
+
+.research .publication-meta,
+.entry-meta,
+.entry-links {
+  margin-top: .1em;
+  color: #555;
+  font-size: .94em;
+}
+
+.research .publication-venue {
+  font-style: italic;
+}
+
 /*  Split halfway page */
 /* .split {
   height: 100%;
