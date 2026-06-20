@@ -266,37 +266,6 @@ body {
   color: #666;
 }
 
-/* Publications */
-
-.research .publication {
-  margin: 1.35em 0 1.7em;
-  line-height: 1.5;
-}
-
-.research .publication-title {
-  font-size: 1.05em;
-  font-weight: bold;
-}
-
-.research .publication-authors {
-  margin-top: .15em;
-}
-
-.research .publication-meta {
-  margin-top: .1em;
-  color: #555;
-  font-size: .94em;
-}
-
-.research .publication-venue {
-  font-style: italic;
-}
-
-.research .publication-links p {
-  display: inline;
-  margin: 0;
-}
-
 /*  Split halfway page */
 /* .split {
   height: 100%;
