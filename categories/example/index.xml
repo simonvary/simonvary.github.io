@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Example on Šimon Váry</title>
-    <link>http://simonavary.github.io/categories/example/</link>
+    <link>https://simonvary.com/categories/example/</link>
     <description>Recent content in Example on Šimon Váry</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
     <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://simonavary.github.io/categories/example/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://simonvary.com/categories/example/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spectral Datasets</title>
-      <link>http://simonavary.github.io/notes/a-quick-note/</link>
+      <link>https://simonvary.com/notes/a-quick-note/</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://simonavary.github.io/notes/a-quick-note/</guid>
+      <guid>https://simonvary.com/notes/a-quick-note/</guid>
       <description>&lt;p&gt;There are several&lt;/p&gt;&#xA;&lt;p&gt;| Dataset      | Spectral range | Spatial resolution |&#xA;| &amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; | &amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; |&#xA;| Header      | Title       |&#xA;| Paragraph   | Text        |&lt;/p&gt;</description>
     </item>
   </channel>
