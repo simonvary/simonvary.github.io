@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Šimon Váry</title>
-    <link>https://simonvary.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Šimon Váry</description>
     <generator>Hugo</generator>
     <language>en-GB</language>
     <lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://simonvary.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Maths</title>
-      <link>https://simonvary.com/categories/maths/</link>
+      <link>http://localhost:1313/categories/maths/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://simonvary.com/categories/maths/</guid>
+      <guid>http://localhost:1313/categories/maths/</guid>
       <description></description>
     </item>
     <item>
       <title>Example</title>
-      <link>https://simonvary.com/categories/example/</link>
+      <link>http://localhost:1313/categories/example/</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://simonvary.com/categories/example/</guid>
+      <guid>http://localhost:1313/categories/example/</guid>
       <description></description>
     </item>
   </channel>
