@@ -1,0 +1,97 @@
+/* Small readability adjustments to the existing Ivy theme. */
+body {
+  font-size: 1.0625rem;
+  line-height: 1.65;
+}
+
+.main {
+  border-left: 1px solid #c5ced8;
+}
+
+.home-intro {
+  display: grid;
+  grid-template-columns: 170px minmax(0, 1fr);
+  align-items: start;
+  gap: 24px;
+}
+
+.home-intro .portrait {
+  display: block;
+  float: none;
+  width: 100%;
+  min-width: 0;
+  max-width: 100%;
+  height: auto;
+  margin: 0;
+  border-radius: 3px;
+}
+
+.home-intro-copy p {
+  margin: 0 0 .8em;
+}
+
+.profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: .4em 1.25em;
+  margin: 1em 0 0;
+  padding: 0;
+  list-style: none;
+  font-size: 1rem;
+}
+
+.profile-links li {
+  margin: 0;
+  white-space: nowrap;
+}
+
+.profile-location {
+  color: #555;
+}
+
+.home .main > h2 {
+  margin: 1.8em 0 .65em;
+  font-size: 1.3em;
+}
+
+.home .main > ul li {
+  margin-bottom: .8em;
+}
+
+.home .main > p {
+  margin: 0 0 1em;
+}
+
+.home .main > ul + p {
+  margin-top: 1.8em;
+}
+
+@media screen and (max-width: 960px) {
+  .masthead {
+    padding-bottom: 28px;
+    border-bottom: 1px solid #c5ced8;
+  }
+
+  .main {
+    padding: 28px 20px;
+    border-left: none;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .home-intro {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 20px;
+  }
+
+  .home-intro .portrait {
+    width: 170px;
+    margin: 0 auto;
+  }
+
+  .profile-links {
+    gap: .6em 1em;
+  }
+}
+
