@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://simonvary.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2021-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonvary.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2021-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonvary.com/categories/maths/</loc>
+    <loc>http://localhost:1313/categories/maths/</loc>
     <lastmod>2021-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonvary.com/notes/</loc>
+    <loc>http://localhost:1313/notes/</loc>
     <lastmod>2021-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonvary.com/notes/planted-clique-problem/</loc>
+    <loc>http://localhost:1313/notes/planted-clique-problem/</loc>
     <lastmod>2021-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonvary.com/notes/linear-algebra-theorems/</loc>
+    <loc>http://localhost:1313/notes/linear-algebra-theorems/</loc>
     <lastmod>2021-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonvary.com/categories/example/</loc>
+    <loc>http://localhost:1313/categories/example/</loc>
     <lastmod>2021-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonvary.com/notes/a-quick-note/</loc>
+    <loc>http://localhost:1313/notes/a-quick-note/</loc>
     <lastmod>2021-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonvary.com/research/</loc>
+    <loc>http://localhost:1313/research/</loc>
   </url><url>
-    <loc>https://simonvary.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://simonvary.com/talks/</loc>
+    <loc>http://localhost:1313/talks/</loc>
   </url><url>
-    <loc>https://simonvary.com/teaching/</loc>
+    <loc>http://localhost:1313/teaching/</loc>
   </url>
 </urlset>
